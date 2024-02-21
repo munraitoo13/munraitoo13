@@ -1,4 +1,4 @@
-<!-- My presentation. -->
+<!-- Greetings and aboute me. -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FF0000,100:a82da8&text=What's%20up!%20My%20name%20is%20Augusto.&fontSize=48&fontColor=FFFFFF">
 <p align="center">I'm a passionate Fullstack Dev from Brazil.</p>
 <p align="center">Currently, a Software Engineer student @ Faculdade de Informática e Administração Paulista - FIAP</p>
@@ -10,9 +10,9 @@
 
   <!-- My social networks. -->
   <h3>Socials</h3>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  <a href="https://www.linkedin.com/in/munraitoo13/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:munraitoo13@outlook.com?subject=Contato%20via%20perfil%20do%20GitHub"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
+  <a href="https://steamcommunity.com/id/munraitoo13/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 
   <!-- General technologies i work with. -->
   <h3>Stacks</h3>
