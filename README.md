@@ -1,20 +1,28 @@
-<!-- Greetings and aboute me. -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FF0000,100:a82da8&text=What's%20up!%20My%20name%20is%20Augusto.&fontSize=48&fontColor=FFFFFF">
-<p align="center">I'm a passionate Fullstack Dev from Brazil.</p>
-<p align="center">Software Engineering student @ Faculdade de Informática e Administração Paulista - FIAP</p>
-
-
+<!-- Greetings and about me. -->
 <div align="center">
-  <!-- My GitHub stats. -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FF0000,100:a82da8&text=What's%20up!%20My%20name%20is%20Augusto.&fontSize=48&fontColor=FFFFFF">
+  <p>
+    I'm a passionate Web Developer from Brazil.<br>
+    Currently a Software Engineering student at FIAP.
+  </p>
+</div>
+
+
+<!-- My GitHub stats. -->
+<div align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=munraitoo13&theme=dark&show_icons=true&hide_border=true&count_private=true&icon_color=ff0000&bg_color=090c10" />
+</div>
 
-  <!-- My social networks. -->
+<!-- My social networks. -->
+<div align="center">
   <h3>Socials</h3>
+  <a href="https://linktr.ee/munraitoo13"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
   <a href="https://www.linkedin.com/in/munraitoo13/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:munraitoo13@outlook.com?subject=Contato%20via%20perfil%20do%20GitHub"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
   <a href="https://steamcommunity.com/id/munraitoo13/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+</div>
 
-  <!-- General technologies i work with. -->
+<!-- General technologies i work with. -->
+<div align="center">
   <h3>Stacks</h3>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -29,16 +37,20 @@
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
 
 <!-- Design softwares i work with. -->
+<div align="center">
   <h3>Design</h3>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
 
-  <!-- My workspaces. -->
+<!-- My workspaces. -->
+<div align="center">
   <h3>Workspaces</h3>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
