@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FF0000,100:a82da8&text=What's%20up!%20My%20name%20is%20Augusto.&fontSize=48&fontColor=FFFFFF">
   <p>
     I'm a passionate Web Developer from Brazil.<br>
-    Currently a Software Engineering student at FIAP.
+    Currently, i'm a Software Engineering student at FIAP.
   </p>
 </div>
 
