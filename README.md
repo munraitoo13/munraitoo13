@@ -1,10 +1,6 @@
 <!-- Greetings and about me. -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FF0000,100:a82da8&text=What's%20up!%20My%20name%20is%20Augusto.&fontSize=48&fontColor=FFFFFF">
-  <p>
-    I'm a passionate Web Developer from Brazil.<br>
-    Currently, i'm a Software Engineering student at FIAP.
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=What's%20up!%20My%20name%20is%20Augusto.&reversal=false&fontColor=ffffff&fontSize=42&desc=A%20passionate%20developer%20from%20Brazil.&descSize=16&descAlign=50&descAlignY=60&animation=fadeIn&fontAlignY=50">
 </div>
 
 
