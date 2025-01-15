@@ -6,6 +6,9 @@
 
 <!-- My GitHub stats. -->
 <div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=munraitoo13&label=VISITORS&color=ff0000&style=for-the-badge&abbreviated=true)
+  
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=munraitoo13&theme=dark&show_icons=true&hide_border=true&count_private=true&icon_color=ff0000&bg_color=090c10" />
 </div>
 
