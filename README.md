@@ -1,6 +1,6 @@
 <!-- Greetings and about me. -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=What's%20up!%20My%20name%20is%20Augusto.&reversal=false&fontColor=ffffff&fontSize=42&desc=aka%20munraitoo13,%20I'm%20a%20passionate%20software%20engineer%20from%20Brazil.&descSize=16&descAlign=50&descAlignY=60&animation=fadeIn&fontAlignY=50">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=FF0000&text=My%20name%20is%20Augusto.&textBg=false&section=header&reversal=false&fontColor=FFFFFF&fontSize=48&animation=fadeIn&desc=Also%20known%20as%20munraitoo13,%20I'm%20a%20developer%20driven%20by%20passion,%20proudly%20representing%20Brazil.&descSize=14">
 </div>
 
 
